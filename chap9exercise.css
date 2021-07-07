@@ -59,3 +59,29 @@ footer {
   height: 50px;
   background-color: #aaaaaa;
 }
+@media screen and (max-width: 768px) {
+  header {
+    width: 100%;
+  }
+  main {
+    width: 100%;
+    display: block;
+  }
+  .box-list {
+    width: 90%;
+    margin: 20px auto;
+  }
+  .box-img1 {
+    width: 100%;
+  }
+  .box-img2 {
+    width: 100%;
+  }
+  .box-img3 {
+    width: 100%;
+  }
+  .title {
+    width: 49%;
+    padding-top: 5px;
+  }
+}
