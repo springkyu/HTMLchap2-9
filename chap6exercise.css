@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.pic1 {
+  height: 200px;
+  background-image: url(chap6img/box1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.pic2 {
+  height: 200px;
+  background-image: url(chap6img/box2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.pic3 {
+  height: 200px;
+  background-image: url(chap6img/box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.pic4 {
+  height: 200px;
+  background-image: url(chap6img/box4.jpg);
+  background-size: cover;
+  background-position: center;
+}
